@@ -2,5 +2,5 @@
 
 I'am Zoé, UI designer from france. I really enjoy UI and UX design and learning languages and frameworks.
 
-ZoeDero/github-readme-stats
-DenverCoder1/github-readme-streak-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoeDero)](https://github.com/anuraghazra/github-readme-stats)
+
